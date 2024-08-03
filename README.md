@@ -11,7 +11,7 @@
 
 [![email](https://img.shields.io/badge/ybg0416@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybg0416@gmail.com)
 <details>
-    <summary># 💻 Tech Stacks</summary>
+    <summary><h3>💻 Tech Stacks</h3></summary>
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
