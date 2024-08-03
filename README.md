@@ -10,8 +10,9 @@
 ### 📫 Contact
 
 [![email](https://img.shields.io/badge/ybg0416@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybg0416@gmail.com)
+<details>
+    <summary># 💻 Tech Stacks</summary>
 
-# 💻 Tech Stacks
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -102,3 +103,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+</details>
