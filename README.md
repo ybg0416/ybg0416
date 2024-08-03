@@ -1,6 +1,9 @@
 <div align="center">
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybg0416&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybg0416&layout=compact)
+
 </div>
+
 ### ✍🏻 Study
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
